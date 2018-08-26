@@ -1,2 +1,2 @@
 # hello-world
-Trying first commint in readme-edits branch.
+Trying first commit in readme-edits branch.
